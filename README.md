@@ -13,4 +13,6 @@ Laptop:
 The laptop is running Processing sketch EMGVisAndWaterOutputv4.pde, which performs the following functions: 1) receives the sensor data, 2) visualize the data dynamically in a bar graph, 3) simulates the data in emergency cases if a sensor is malfunctioning, 4) allows the administrator input to adjust the way the data is mapped to motor speeds via modes and settings, 5) receives Open Sound Control network messages to also allow control of the same administrator functions as per 4) above from within MaxMSP, and 6) send speed control messages to the propeller motors. You need the controlP5 library and the Sabertooth Arduino Library.
 The laptop is also running MaxMSP 6 project file Max2Processing_All.maxproj. This allows all the same administrator functions that the Processing sketch allows to be controlled from within Max, because on the top layer of the laptop, the composer/operator would be running Max patch Mic_Router1.maxpat to route the mic input to speaker output and monitor sound levels.
 
+We have also included our study surveys and interview questions in "Surveys&Interviews".
+
 You can direct any questions to mail@aurapon.ca.
