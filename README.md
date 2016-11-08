@@ -1,0 +1,2 @@
+# torrent
+Torrent is a music composition for flute choir and live water sounds, inspired by the Calgary Floods of 2013. Electromyography sensors worn by four flutists measure their tension as they play, and use this to control motors in a large container of water. The agitation of the water is a musification and physicalization of the flutists' muscle tension and accompanies them as they perform the music.
